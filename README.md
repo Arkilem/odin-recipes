@@ -1,1 +1,5 @@
 # odin-recipes
+
+The objective of this project is to create a simple recipe website using HTML only. The website includes a main index page that provides links to each recipe. Each recipe includes an image of the dish, a brief overview, a section on the required ingredients, and detailed instructions on how to prepare the dish.
+
+While creating this recipe website, I had the opportunity to practice using basic HTML5 coding techniques, such as implementing a boilerplate and structuring the page using semantic HTML tags. Additionally, I gained experience in using HTML5 to create links between pages and including images, as well as formatting text and organizing content using headings and paragraphs. By building a simple website using only HTML, I was able to gain a foundational understanding of web development and lay the groundwork for more advanced skills in the future.
